@@ -1,0 +1,14 @@
+Criar um projeto angular
+> ng new meu-app
+
+Subir aplicação no navegador
+> ng serve
+
+Gerar código para produção(Gerando pasta dist):
+> ng build --prod
+
+obs: pasta src é apenas para desenvolvimento**
+
+Criar um componente:
+> ng g c meu-componente
+
